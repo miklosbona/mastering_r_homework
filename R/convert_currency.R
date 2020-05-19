@@ -1,4 +1,4 @@
-#' Query historical exchange rate for any currency
+#' Query historical exchange rate for any currency, base rate and number of days
 #' @param symbol string
 #' @param base string
 #' @param days number
